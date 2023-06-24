@@ -6,7 +6,6 @@ export default defineUserConfig({
     title: 'Mutu Admin 文档',
     description: 'Mutu Admin 文档',
     base: '/doc/',
-    dest: `docs/.vuepress/dist/doc`,
     theme: defaultTheme({
         // 默认主题配置
         logo: "logo.png",
