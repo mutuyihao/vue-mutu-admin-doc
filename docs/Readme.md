@@ -1,5 +1,5 @@
 # 介绍
-vercel部署的在线地址为：[vue-mutu-admin-doc](https://github.com/mutuyihao/vue-mutu-admin-doc)
+vercel部署的在线地址为：[vue-mutu-admin-doc](https://vue-mutu-admin-doc.vercel.app/)
 
 # Mutu Admin后台管理系统文档
 
