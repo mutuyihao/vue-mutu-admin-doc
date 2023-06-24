@@ -1,5 +1,5 @@
 ---
-next: /router.md
+next: /doc/router.md
 ---
 
 # 介绍
