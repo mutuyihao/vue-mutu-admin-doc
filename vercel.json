@@ -1,9 +1,0 @@
-{
-  "cleanUrls": false,
-  "rewrites": [
-    {
-      "source": "/doc/:any*",
-      "destination": "/doc/index.html"
-    }
-  ]
-}
