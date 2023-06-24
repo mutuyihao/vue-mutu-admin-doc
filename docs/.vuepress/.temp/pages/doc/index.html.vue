@@ -8,9 +8,9 @@
 │	├── api				<span class="token comment"># 接口</span>
 │	├── assets			<span class="token comment"># 静态资源(会被打包)</span>
 │	├── components		<span class="token comment"># 公共组件</span>
-<span class="token operator">|</span>	├── key				<span class="token comment"># provide/inject</span>
+│	├── key				<span class="token comment"># provide/inject</span>
 │	├── layout			<span class="token comment"># 框架布局视图</span>
-<span class="token operator">|</span>	├── plugin			<span class="token comment"># 全局通知/弹窗等方法配置</span>
+│	├── plugin			<span class="token comment"># 全局通知/弹窗等方法配置</span>
 │	├── router			<span class="token comment"># 路由表</span>
 │	├── stores			<span class="token comment"># Pinia状态管理</span>
 │	├── utils			<span class="token comment"># 全局公用方法</span>
