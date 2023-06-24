@@ -1,8 +1,8 @@
 {
-  "cleanUrls": true,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/"
+      "src": "/doc/assets/(.*)",
+      "dest": "/doc/assets/$1"
     }
   ]
 }
